@@ -29,4 +29,4 @@ def pregunta_08():
 
     return [(val, sorted(letters)) for val, letters in sorted(by_value.items())]
 
-    raise NotImplementedError
+

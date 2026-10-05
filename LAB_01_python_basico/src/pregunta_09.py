@@ -30,4 +30,4 @@ def pregunta_09():
 
     return dict(sorted(counts.items()))
 
-    raise NotImplementedError
+

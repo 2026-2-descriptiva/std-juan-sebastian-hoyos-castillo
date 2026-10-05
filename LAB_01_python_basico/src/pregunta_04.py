@@ -27,4 +27,4 @@ def pregunta_04():
 
     return sorted(counts.items())
 
-    raise NotImplementedError
+

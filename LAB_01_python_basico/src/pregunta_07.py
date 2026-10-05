@@ -31,4 +31,4 @@ def pregunta_07():
 
     return sorted(by_value.items())
 
-    raise NotImplementedError
+

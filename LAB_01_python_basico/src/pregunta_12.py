@@ -29,4 +29,3 @@ def pregunta_12():
 
     return dict(sorted(letter_sums.items()))
 
-    raise NotImplementedError

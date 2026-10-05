@@ -23,4 +23,4 @@ def pregunta_01():
                 total += int(line.split("\t")[1])
     return total
 
-    raise NotImplementedError
+

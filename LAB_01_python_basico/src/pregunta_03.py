@@ -28,4 +28,4 @@ def pregunta_03():
     return sorted(sums.items())
     
 
-    raise NotImplementedError
+

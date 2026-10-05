@@ -27,4 +27,4 @@ def pregunta_05():
 
     return [(letter, max(vals), min(vals)) for letter, vals in sorted(values.items())]
 
-    raise NotImplementedError
+

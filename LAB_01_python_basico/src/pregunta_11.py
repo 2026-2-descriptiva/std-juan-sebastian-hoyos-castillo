@@ -31,4 +31,4 @@ def pregunta_11():
 
     return dict(sorted(sums.items()))
 
-    raise NotImplementedError
+

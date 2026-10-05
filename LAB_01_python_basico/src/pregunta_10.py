@@ -31,4 +31,4 @@ def pregunta_10():
 
     return result
 
-    raise NotImplementedError
+

@@ -34,4 +34,4 @@ def pregunta_06():
 
     return [(k, min(vals), max(vals)) for k, vals in sorted(metrics.items())]
 
-    raise NotImplementedError
+
